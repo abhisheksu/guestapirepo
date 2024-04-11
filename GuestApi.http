@@ -1,0 +1,6 @@
+@GuestApi_HostAddress = http://localhost:5008
+
+GET {{GuestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
